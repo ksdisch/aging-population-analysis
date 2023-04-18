@@ -2,11 +2,81 @@
 This data analysis examines the aging population of the United States, the growing healthcare workforce shortage, and potential solutions to this issue.
 
 ## Outline
-
 - ### I. Problem Definition
-  - #### A. Business/research question
+  - #### A. Business/research question(s)
+    - How severe is the healthcare clinical workforce shortage?
+      - For 2030, 2040, and 2050 what are the respective shortages projected to be for:
+        - Nurses
+        - Physicians
+          - Specialists
+          - Primary Care
+    - How fast and to what extent is the population aging?
+      - Projections for people aged 65+ for 2030, 2040, and 2050
+        - Total numbers
+        - Percentage of population
+    - What is the ratio of clinical healthcare workers to elderly citizens required to provide quality care?
+      - Nurses
+      - Physicians
+      - Other
+    - What are the potential solutions that can contribute to providing long-term care for the elderly as the population continues to age?
+      - Expanded role and responsibility of non-physician providers
+        - Examine if these fields have been growing and to what extent (list below is not exhaustive)
+          - Nurse Practitioners (NPs): Nurse practitioners are registered nurses with advanced education, usually at the master's or doctoral level. They provide primary, acute, and specialty care, often working independently or in collaboration with physicians. NPs can diagnose and treat medical conditions, prescribe medications, and order diagnostic tests.
+          - Physician Assistants (PAs): Physician assistants are medical professionals who have completed a master's degree in physician assistant studies. They work under the supervision of a physician to diagnose and treat medical conditions, perform minor surgical procedures, prescribe medications, and order diagnostic tests.
+          - Clinical Nurse Specialists (CNSs): Clinical nurse specialists are registered nurses with a master's or doctoral degree in a specialized area of nursing. They provide expert clinical care, consultation, and education in their field of expertise, often focusing on a specific patient population or medical condition.
+          - Certified Registered Nurse Anesthetists (CRNAs): Certified registered nurse anesthetists are advanced practice registered nurses with specialized training in anesthesia. They administer anesthesia and provide related care before, during, and after surgical, therapeutic, or diagnostic procedures, often working in collaboration with anesthesiologists or independently, depending on the jurisdiction.
+          - Certified Nurse-Midwives (CNMs): Certified nurse-midwives are advanced practice registered nurses with specialized training in obstetrics and gynecology. They provide prenatal, childbirth, and postpartum care, as well as routine gynecological services and family planning. CNMs can also attend low-risk births, often in collaboration with obstetricians.
+          - Licensed Clinical Social Workers (LCSWs): Licensed clinical social workers are mental health professionals with a master's degree in social work. They provide mental health assessment, diagnosis, and treatment, as well as counseling and support services to individuals, families, and groups.
+          - Licensed Professional Counselors (LPCs): Licensed professional counselors are mental health professionals with a master's degree in counseling or a related field. They provide psychotherapy, counseling, and other mental health services to individuals, couples, families, and groups.
+          - Psychologists: Psychologists are professionals with a doctoral degree in psychology. They provide mental health assessment, diagnosis, and treatment, as well as psychological testing and research. Clinical psychologists focus on providing therapy and counseling, while other specialized psychologists may work in areas such as neuropsychology, forensic psychology, or organizational psychology.
+          - Occupational Therapists (OTs): Occupational therapists are healthcare professionals with a master's or doctoral degree in occupational therapy. They help individuals of all ages develop, recover, or maintain the skills needed for daily living and working. OTs create customized treatment plans and interventions to address physical, cognitive, and social challenges.
+          - Physical Therapists (PTs): Physical therapists are healthcare professionals with a doctoral degree in physical therapy. They help patients improve their mobility, reduce pain, and restore function following injury, illness, or surgery. PTs develop individualized treatment plans that include exercises, manual therapy, and other interventions.
+          - Speech-Language Pathologists (SLPs): Speech-language pathologists are healthcare professionals with a master's degree in speech-language pathology. They diagnose and treat speech, language, voice, and fluency disorders in individuals of all ages, as well as provide therapy for swallowing difficulties.
+      - Artifical Intelligence (AI)
+        - Robotics to provide care either in facilities or at patient's homes
+    
   - #### B. Stakeholders
+    - Healthcare organizations
+      - Long-term care facilities
+    - Clinical healthcare workers
+      - Nurses
+      - Physicians
+      - NPPs
+    - Citizens
+      - Elderly (age 65+)
+      - Family members of the elderly
+    - Government
+      - Federal
+      - State
+      - Local
   - #### C. Success criteria and objectives
+    - Objectives
+      - Define and display the extent of the shortages
+        - Nurses
+          - Current
+          - Projections
+        - Physicians
+        - NPPs
+        - Other
+        - Visualizations
+      - Define the extent of the aging population
+        - Totals
+          - Current
+          - Projections
+        - Percentage of population
+          - Current
+          - Projections
+        - Visualizations
+      - Examine potential solutions
+        - NPPs
+          - Pros
+          - Cons
+        - AI
+          - Pros
+          - Cons
+    - Constraints and limitations
+      - Data availibility: I am conducting this analysis independently and therefore may not have access to the resources and data that larger entities may have.
+      - Unforeseen developments: Since this analysis is attempting to predict events multiple decades away, circumstances may change. Particularly as it regards to the power of the solutions that AI may be able to provide as it develops rapidly. 
 - ### II. Data Collection and Integration
   - #### A. Data sources
   - #### B. Data merging and integration
